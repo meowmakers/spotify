@@ -1,0 +1,16 @@
+
+# framework 
+django
+djangorestframework
+# postgresql driver
+psycopg2-binary
+# swagger
+drf-yasg
+# to hide data
+python-decouple
+# to work with audio
+django-audiotracks
+# to work with images 
+Pillow 
+# filtering      
+django-filter
